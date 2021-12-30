@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wassimchakib
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m Full Stack Developer
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me wassimchakib97@gmail.com
 
